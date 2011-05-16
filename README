@@ -1,29 +1,29 @@
-(��) Windows XP Pre-SP4 �o������
+﻿(偽) Windows XP Pre-SP4 發布說明
 
-[²��]
-�\�h�H�����D�A�{�b�w�� Windows2000/XP�A�������N�t�έץ��ɤU����A�A�����u�w�ˡA�H�K���F�e���������f�r�A
-���O�ץ��ɳo��h�A�@�@�U���ӮɶO�O�A�ҥH�o�̾�z�X�F Windows XP SP3 �o���ܤ����Ҧ��ץ��ɡA
-�z�i�H�U����M Windows XP SP3 ���w���ɿN�b�P�@�����и̡A�H�K�w�ˡC
+[簡介]
+許多人都知道，現在安裝 Windows2000/XP，必須先將系統修正檔下載後，再做離線安裝，以免中了疾風之類的病毒，
+但是修正檔這麼多，一一下載耗時費力，所以這裡整理出了 Windows XP SP3 發布至今的所有修正檔，
+您可以下載後和 Windows XP SP3 的安裝檔燒在同一片光碟裡，以便安裝。
 
-[�w�˻���]
-�t�λݨD�G
-1. Windows XP SP3 32�줸���媩�A�M�~�P�a�Ϊ����i(���A�Ω��L�y����64�줸��)
+[安裝說明]
+系統需求：
+1. Windows XP SP3 32位元中文版，專業與家用版均可(不適用於其他語言或64位元版)
 2. Windows internet Explorer 8
-3. Windows Media Player 11(�ݭn 2010/6/22 �H�W����)
+3. Windows Media Player 11(需要 2010/6/22 以上版本)
 
-�w�˻����G
-1. ���ץ��ɥ]�t Windows XP SP3 �H��ܤ��骺�ץ��ɡA�w�˫e�Х��T�{�A�w�g�N Windows XP ��s�� SP3�A��i�w�˦���s�ɡC
-2. ���۰ʦw���ɵL�k�Ϧw�ˡA�Цb�Ҽ{��A�M�w�O�_�w�ˡC
-3. �w�˫e�Х��N�Ҧ��w�}�Ҫ��{�����������A�H�K��s���ѡC
-4. ���۰ʦw���ɨõL�ﶵ�i�ѿ�ܡA�����|�����}�l�w�ˡC
-5. �w�˧�����ä��|�۰ʭ��s�}���A�Цۦ歫�s�}���A��i�M�Χ�s�ɡC
+安裝說明：
+1. 本修正檔包含 Windows XP SP3 以後至今日的修正檔，安裝前請先確認你已經將 Windows XP 更新為 SP3，方可安裝此更新檔。
+2. 本自動安裝檔無法反安裝，請在考慮後再決定是否安裝。
+3. 安裝前請先將所有已開啟的程式完全關閉，以免更新失敗。
+4. 本自動安裝檔並無選項可供選擇，執行後會直接開始安裝。
+5. 安裝完畢後並不會自動重新開機，請自行重新開機，方可套用更新檔。
 
-�p�G�z���t�λݨD�P�W�����ŦX�A�Ш̷ӤU�C�B�J�ާ@�C
-1. �p�G�z�S�� Windows XP SP3�A�Цۦ�U�� WINDOWSXP-KB936929-SP3-X86-CHT.EXE �w�ˡA
-��ĳ�z�ĥξ�X�� Windows XP SP3 �w�ˡA�����K�C
-2. �p�G�z�S�� Windows Internet Explorer 8�A�ЧR�� ie8 ��Ƨ��U���Ҧ������ɡA
-�ëO�d�Ҧ����Ÿ�Ƨ�(�t�Ū� hotfix ��Ƨ�)�C
-3. �p�G�z�S�� Windows Media Player 11�A�ЧR�� wmp11 ��Ƨ��U���Ҧ������ɡA
-�ëO�d�Ҧ����Ÿ�Ƨ�(�t�Ū� hotfix ��Ƨ�)�C
-3. ���ץ��ɨå��]�t Windows Media Player 9/10 �� �ץ��ɡA�p�G�z�O�ݩ�W�z����
-���ϥΪ̡A�Цۦ�s�W Windows Updates�A�U���Ӫ������ץ��ɡC
+如果您的系統需求與上面不符合，請依照下列步驟操作。
+1. 如果您沒有 Windows XP SP3，請自行下載 WINDOWSXP-KB936929-SP3-X86-CHT.EXE 安裝，
+建議您採用整合版 Windows XP SP3 安裝，比較方便。
+2. 如果您沒有 Windows Internet Explorer 8，請刪除 ie8 資料夾下的所有執行檔，
+並保留所有的空資料夾(含空的 hotfix 資料夾)。
+3. 如果您沒有 Windows Media Player 11，請刪除 wmp11 資料夾下的所有執行檔，
+並保留所有的空資料夾(含空的 hotfix 資料夾)。
+3. 本修正檔並未包含 Windows Media Player 9/10 的 修正檔，如果您是屬於上述版本
+的使用者，請自行連上 Windows Updates，下載該版本的修正檔。
