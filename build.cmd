@@ -174,6 +174,7 @@ ECHO      タ更 HotFix Type 1叫祔...
 %down%/E/B/2/EB2956D9-6DBA-456D-ADA2-B2FF5BDE8321/WindowsXP-KB2485376-x86-CHT.exe
 %down%/3/4/E/34E4ACEE-3634-4523-AB6E-875C2905EA52/WindowsXP-KB2483185-x86-CHT.exe
 %down%/9/D/8/9D818FC7-F493-48FF-90E9-06B84B785BED/WindowsXP-KB2345886-x86-CHT.exe
+%down%/E/7/7/E7789A5A-C145-4C5C-AF85-1E8DE2F87A2E/WindowsXP-KB2479943-x86-CHT.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix1\ > nul
 ECHO      タ更 HotFix Type 2叫祔...
 %down%/1/7/1/17115a2c-8493-4947-bb7d-d7b58457acf7/CAPICOM-KB931906-v2102.exe
@@ -185,13 +186,14 @@ ECHO      タ更 HotFix Type 3叫祔...
 %down%/8/4/6/84675FA7-F77E-40EB-941A-11C214CF5846/WindowsXP-KB975467-x86-CHT.exe
 %down%/5/8/E/58E5DF55-EAB4-404E-B3F5-BE9586C4163D/WindowsXP-KB969084-x86-cht.exe
 %down%/3/2/9/329c83c3-c092-48d8-b1eb-709319e8cffa/Windows-KB943729-x86-CHT.exe
+%down%/8/6/5/865A3DE0-4851-47B0-B3B7-B47C21627038/WindowsXP-KB2483614-x86-CHT.exe
 %down%/8/2/2/8225C1C9-3EAC-4B88-AF5E-FF93C2CCFFFA/msxml4-KB973685-cht.exe
 start /wait msxml4-KB973685-cht.exe /passive /x:.\
 del /q /f msxml4-KB973685-cht.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix3\ > nul
 move /y *.msi wxp_sp4\wxpsp3\hotfix3\ > nul
 ECHO      タ更 HotFix Type 4叫祔...
-%down%/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.16.exe
+%down%/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.17.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix4\ > nul
 ECHO      タ更 Windows Update Agent叫祔...
 wget.com -abuild.log http://download.windowsupdate.com/windowsupdate/redist/standalone/7.4.7600.226/windowsupdateagent30-x86.exe
