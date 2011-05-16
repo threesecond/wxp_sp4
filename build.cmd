@@ -27,7 +27,7 @@ ECHO.    ¢|¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢
 ECHO.
 ECHO.
 ECHO.
-ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.threesecond.info/    §ó·s¤é´Á¡G2011/02/14
+ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.threesecond.info/    §ó·s¤é´Á¡G2011/05/16
 ECHO -------------------------------------------------------------------------------
 pause
 CLS
