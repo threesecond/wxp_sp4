@@ -27,7 +27,7 @@ ECHO.    ¢|¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢
 ECHO.
 ECHO.
 ECHO.
-ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.threesecond.info/    §ó·s¤é´Á¡G2011/05/16
+ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.3sec.tw/    §ó·s¤é´Á¡G2011/05/17
 ECHO -------------------------------------------------------------------------------
 pause
 CLS
@@ -63,7 +63,6 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/5/a/2/5a2f25f4-0153-4b1b-8d9a-a7f5b4cf8e63/WindowsXP-KB944043-v3-x86-CHT.exe
 %down%/2/6/1/261fca42-22c0-4f91-9451-0e0f2e08356d/WindowsXP-KB942288-v3-x86.exe    
 %down%/5/f/5/5f5a1082-98b4-4560-908d-e8f495708419/WindowsXP-KB898461-x86-CHT.exe   
-%down%/f/2/9/f2964a3e-ae50-484a-80fe-e55c37963d6c/WindowsXP-KB951748-x86-CHT.exe   
 %down%/f/c/c/fcccda5a-bd48-4f0f-9ef5-2f6878a0250c/WindowsXP-KB951978-x86-CHT.exe   
 %down%/2/1/2/2129ad43-1192-4d16-b1ed-720098627519/WindowsXP-KB951376-v2-x86-CHT.exe
 %down%/c/4/8/c486343a-7b01-4316-85cd-f82df5147e18/WindowsXP-KB952954-x86-CHT.exe   
@@ -75,7 +74,6 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/1/6/7/1679b6dc-a918-4fa6-ac34-50180163fcdb/WindowsXP-KB954708-x86-CHT.exe      
 %down%/4/b/7/4b7a2ff8-f45a-4511-87d2-e64655733766/WindowsXP-KB951618-v2-x86-CHT.exe   
 %down%/d/0/4/d04ac3ee-e381-4f1c-b8a6-022644346813/WindowsXP-KB958644-x86-CHT.exe                   
-%down%/7/3/3/73399e0c-9ef1-4ad8-a49e-bfffa78d955f/WindowsXP-KB956803-x86-CHT.exe                   
 %down%/e/d/3/ed33e9bd-47f1-42db-843b-73071912bc0c/WindowsXP-KB953155-x86-CHT.exe                   
 %down%/5/d/4/5d428d99-ff56-4dc7-a049-d3623f0d1426/WindowsXP-KB954920-v2-x86-CHT.exe                
 %down%/e/c/3/ec308422-8bd1-479c-bcb3-7788b8d3e782/WindowsXP-KB956391-x86-CHT.exe                   
@@ -112,7 +110,6 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/C/2/3/C235261E-4074-4ACD-B629-BBC1EF866757/WindowsXP-KB975254-x86-CHT.exe              
 %down%/B/D/4/BD4ECC52-4E15-4BCF-9B2D-DD56DD4F5C73/WindowsXP-KB974571-x86-CHT.exe              
 %down%/F/D/2/FD251D1C-C5B7-4EC9-ACC7-05DA65438513/WindowsXP-KB969059-x86-CHT.exe              
-%down%/7/5/B/75BE7D9F-018A-46D8-913B-DD057D8B477E/WindowsXP-KB958869-x86-CHT.exe 
 %down%/A/2/B/A2B5895D-3DE2-4E3C-AD4C-0AAE9EA2A457/WindowsXP-KB971513-x86-CHT.exe    
 %down%/2/9/F/29FB9F2F-DF5E-4A59-ABBA-379F576892CA/WindowsXP-KB973687-x86-CHT.exe
 %down%/9/1/4/914C83E2-674E-4016-9E81-B11146B1F182/WindowsXP-KB974392-x86-CHT.exe
@@ -132,11 +129,9 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/D/F/9/DF9AE73D-ABDE-49A3-95B6-418B3B6FA644/WindowsXP-KB978338-x86-CHT.exe
 %down%/7/9/8/7983076F-D5F5-482C-AEF5-970BAD7F7BC4/WindowsXP-KB977816-x86-CHT.exe
 %down%/A/4/E/A4EF10AD-B4AC-4E01-B752-EEB0AC735B13/WindowsXP-KB976323-x86-CHT.exe
-%down%/A/2/C/A2C23001-6841-4EA9-9274-75D697C8424B/WindowsXP-KB980232-x86-CHT.exe
 %down%/A/2/1/A219B0A1-B671-4A7C-B7E5-F9E9E905F7D4/WindowsXP-KB979309-x86-CHT.exe
 %down%/2/7/7/277D300B-ED83-4041-8D01-E399A9726BB8/WindowsXP-KB978601-x86-CHT.exe
 %down%/B/6/9/B6985FF2-ED9A-427E-AAD8-A1E8640D6A3D/WindowsXP-KB978542-x86-CHT.exe
-%down%/E/4/2/E4219E73-D859-4C76-83DD-D1784F217002/WindowsXP-KB980195-x86-CHT.exe
 %down%/5/6/A/56A442B5-78C4-4905-8B77-B2625E21FE9A/WindowsXP-KB975562-x86-CHT.exe
 %down%/9/0/8/908CB1A2-4482-4886-959A-BABB9D515248/WindowsXP-KB979482-x86-CHT.exe
 %down%/3/B/A/3BA537EC-6BAB-4466-B786-39CD2AF8C86C/WindowsXP-WindowsMedia-KB978695-x86-CHT.exe
@@ -145,13 +140,11 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/6/C/B/6CBD20DF-1752-46C0-866B-B748C701BEDC/WindowsXP-KB981997-x86-CHT.exe
 %down%/9/5/5/9553A8EC-CB15-4587-9D9C-2EE772843506/WindowsXP-KB2079403-x86-CHT.exe
 %down%/C/C/9/CC96E5A2-635A-4D7B-A39D-5872FE1F7610/WindowsXP-KB2115168-x86-CHT.exe
-%down%/2/8/E/28E57926-F3F4-4209-A280-686C1EC0B11E/WindowsXP-KB982214-x86-CHT.exe
 %down%/5/E/2/5E2EA429-0828-4D06-8AAE-0908B66B68C3/WindowsXP-KB982665-x86-CHT.exe
 %down%/8/3/4/83435839-035A-460C-8F77-8D9F33024A7C/WindowsXP-KB2347290-x86-CHT.exe
 %down%/7/C/4/7C44D278-8BB8-4C1D-8AA7-9775435EB856/WindowsXP-WindowsMedia-KB975558-x86-CHT.exe
 %down%/E/3/3/E3377F0C-C4B6-4F6C-8305-BAABEE30FF64/WindowsXP-KB981322-x86-CHT.exe
 %down%/F/A/0/FA04F680-18A7-4356-B985-EF643894E82D/WindowsXP-KB2124261-x86-CHT.exe
-%down%/E/8/E/E8E9FDE9-61A6-4981-8849-3675D34B3DD8/WindowsXP-KB2259922-x86-CHT.exe
 %down%/4/5/8/458047D5-EA00-4FC3-8B74-FA291B249081/WindowsXP-KB2121546-x86-CHT.exe
 %down%/9/B/4/9B45CE30-7E29-4C93-A826-C3AB59134DC4/WindowsXP-KB2141007-x86-CHT.exe
 %down%/3/7/0/37099F73-FF49-4972-B578-E8FCBFDC0377/WindowsXP-KB2264107-x86-CHT.exe
@@ -168,13 +161,23 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/0/3/8/038B8F9E-7FC4-48D9-9500-25E781B16657/WindowsXP-KB2419632-x86-CHT.exe
 %down%/C/E/8/CE886D2C-2EAD-4BD6-94A4-1CBFA354F3DA/WindowsXP-KB2478960-x86-CHT.exe
 %down%/2/3/C/23C986A3-CC6D-4EEF-90F5-59F6165CB0FE/WindowsXP-KB2478971-x86-CHT.exe
-%down%/A/5/3/A5373669-DCE4-4CAD-9FBE-6D5D77708F01/WindowsXP-KB2479628-x86-CHT.exe
 %down%/E/3/4/E34618D4-BAC6-4915-A4C2-AD157AA77816/WindowsXP-KB2393802-x86-CHT.exe
 %down%/D/8/7/D877BCA0-87BF-43E1-B4E9-B15EC207D23B/WindowsXP-KB2476687-x86-CHT.exe
-%down%/E/B/2/EB2956D9-6DBA-456D-ADA2-B2FF5BDE8321/WindowsXP-KB2485376-x86-CHT.exe
 %down%/3/4/E/34E4ACEE-3634-4523-AB6E-875C2905EA52/WindowsXP-KB2483185-x86-CHT.exe
 %down%/9/D/8/9D818FC7-F493-48FF-90E9-06B84B785BED/WindowsXP-KB2345886-x86-CHT.exe
 %down%/E/7/7/E7789A5A-C145-4C5C-AF85-1E8DE2F87A2E/WindowsXP-KB2479943-x86-CHT.exe
+%down%/D/F/1/DF1D1B56-07BA-4A75-8EBC-B9FDB5829856/WindowsXP-KB2506223-x86-CHT.exe
+%down%/4/D/0/4D008666-D773-46A0-A987-C64E3B54E1DD/WindowsXP-KB2485663-x86-CHT.exe
+%down%/4/0/1/401B42DA-6591-4891-98B4-DBD70A86011F/WindowsXP-KB2503658-x86-CHT.exe
+%down%/D/5/D/D5D18748-41CD-414C-B010-33ACF523CCD3/WindowsXP-KB2491683-x86-CHT.exe
+%down%/1/B/C/1BC5FBB8-7AA5-42F6-8449-9C93F63FDC82/WindowsXP-KB2506212-x86-CHT.exe
+%down%/C/E/4/CE4EEE5F-F450-484E-BA64-8851B82148B1/WindowsXP-KB2507618-x86-CHT.exe
+%down%/6/5/A/65A7F30C-B4FC-4CC9-97C6-31E3C16CED3C/WindowsXP-KB2509553-x86-CHT.exe
+%down%/8/7/D/87D47F8E-CF01-449B-8651-F5B4C9FF0494/WindowsXP-KB2412687-x86-CHT.exe
+%down%/F/8/B/F8B69995-C3C6-47A6-97EA-DE83DCCA6C21/WindowsXP-KB2508272-x86-CHT.exe
+%down%/C/5/4/C54D48E8-B03E-4BD3-838D-9B5A94390A25/WindowsXP-KB2508429-x86-CHT.exe
+%down%/6/C/8/6C84F30D-1E70-4D1C-A94A-6F73D76F73E5/WindowsXP-KB2511455-x86-CHT.exe
+%down%/5/8/E/58E5DF55-EAB4-404E-B3F5-BE9586C4163D/WindowsXP-KB969084-x86-cht.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix1\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 2¡A½Ðµy«á...
 %down%/1/7/1/17115a2c-8493-4947-bb7d-d7b58457acf7/CAPICOM-KB931906-v2102.exe
@@ -184,7 +187,6 @@ move /y *.exe wxp_sp4\wxpsp3\hotfix2\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 3¡A½Ðµy«á...
 %down%/f/c/d/fcd66977-535c-4f8f-94cc-dace02b417f5/WindowsXP-KB954459-x86-CHT.exe 
 %down%/8/4/6/84675FA7-F77E-40EB-941A-11C214CF5846/WindowsXP-KB975467-x86-CHT.exe
-%down%/5/8/E/58E5DF55-EAB4-404E-B3F5-BE9586C4163D/WindowsXP-KB969084-x86-cht.exe
 %down%/3/2/9/329c83c3-c092-48d8-b1eb-709319e8cffa/Windows-KB943729-x86-CHT.exe
 %down%/8/6/5/865A3DE0-4851-47B0-B3B7-B47C21627038/WindowsXP-KB2483614-x86-CHT.exe
 %down%/8/2/2/8225C1C9-3EAC-4B88-AF5E-FF93C2CCFFFA/msxml4-KB973685-cht.exe
@@ -193,7 +195,7 @@ del /q /f msxml4-KB973685-cht.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix3\ > nul
 move /y *.msi wxp_sp4\wxpsp3\hotfix3\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 4¡A½Ðµy«á...
-%down%/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.17.exe
+%down%/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.18.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix4\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü Windows Update Agent¡A½Ðµy«á...
 wget.com -abuild.log http://download.windowsupdate.com/windowsupdate/redist/standalone/7.4.7600.226/windowsupdateagent30-x86.exe
@@ -214,9 +216,9 @@ ECHO   2. ¥¿¦b¤U¸ü Windows Internet Explorer 8 ¤§«áªº©Ò¦³­×¥¿ÀÉ¡A½Ðµy«á...
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/6/5/1/6516E026-DF9B-47B6-8E6E-5B97FBA1A046/IE8-WindowsXP-KB971961-x86-CHT.exe
 %down%/C/0/1/C01577E3-A55A-4363-B318-3766FD04C639/IE8-WindowsXP-KB976662-x86-CHT.exe
-%down%/6/3/A/63AD9934-C2F6-4DE7-8DA8-E8A76A525FE3/IE8-WindowsXP-KB981332-x86-CHT.exe
 %down%/0/A/5/0A5638C2-6614-44E8-9E9D-EC54F7D42588/IE8-WindowsXP-KB2447568-x86-CHT.exe
-%down%/0/9/C/09C03C73-AE41-4986-94D8-A3876D2EB203/IE8-WindowsXP-KB2482017-x86-CHT.exe
+%down%/D/2/5/D25A5073-B8C1-410F-A13D-F53F34C8A81D/IE8-WindowsXP-KB2497640-x86-CHT.exe
+%down%/7/7/F/77FFF321-FF18-4377-9F52-5E9605EEB191/IE8-WindowsXP-KB2510531-x86-CHT.exe
 move /y *.exe wxp_sp4\ie8\hotfix1\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 2¡A½Ðµy«á...
 %down%/F/7/8/F7861118-DA5C-4D0D-B3CB-865C4453A066/WindowsXP-KB2467659-x86-CHT.exe
@@ -256,11 +258,11 @@ ECHO.    ¢|¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢
 ECHO.     
 ECHO.
 ECHO.
-ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.threesecond.info/
+ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.3sec.tw/
 ECHO -------------------------------------------------------------------------------
 pause
 ren wget.com wget.exe > nul
-explorer "http://www.threesecond.info/v2/modules/xhnewbb/viewtopic.php?topic_id=1416"
+explorer "http://www.3sec.tw/"
 goto end
 
 :error
@@ -286,7 +288,7 @@ ECHO.    ¢|¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢
 ECHO.     
 ECHO.
 ECHO.
-ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.threesecond.info/
+ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.3sec.tw/
 ECHO -------------------------------------------------------------------------------
 pause
 goto end
