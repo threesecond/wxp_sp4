@@ -27,7 +27,7 @@ ECHO.    ¢|¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢
 ECHO.
 ECHO.
 ECHO.
-ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.3sec.tw/    §ó·s¤é´Á¡G2011/05/17
+ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.3sec.tw/    §ó·s¤é´Á¡G2011/05/18
 ECHO -------------------------------------------------------------------------------
 pause
 CLS
@@ -178,6 +178,8 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/C/5/4/C54D48E8-B03E-4BD3-838D-9B5A94390A25/WindowsXP-KB2508429-x86-CHT.exe
 %down%/6/C/8/6C84F30D-1E70-4D1C-A94A-6F73D76F73E5/WindowsXP-KB2511455-x86-CHT.exe
 %down%/5/8/E/58E5DF55-EAB4-404E-B3F5-BE9586C4163D/WindowsXP-KB969084-x86-cht.exe
+%down%/A/0/D/A0D42035-BB7C-4CAE-BB48-118FC7A41404/WindowsXP-KB2524375-x86-CHT.exe
+%down%/5/7/2/57285134-DA93-49B8-8FDC-CDDD3DC112E3/WindowsXP-KB2492386-x86-CHT.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix1\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 2¡A½Ðµy«á...
 %down%/1/7/1/17115a2c-8493-4947-bb7d-d7b58457acf7/CAPICOM-KB931906-v2102.exe
@@ -195,7 +197,7 @@ del /q /f msxml4-KB973685-cht.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix3\ > nul
 move /y *.msi wxp_sp4\wxpsp3\hotfix3\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 4¡A½Ðµy«á...
-%down%/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.18.exe
+%down%/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.19.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix4\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü Windows Update Agent¡A½Ðµy«á...
 wget.com -abuild.log http://download.windowsupdate.com/windowsupdate/redist/standalone/7.4.7600.226/windowsupdateagent30-x86.exe
