@@ -244,7 +244,7 @@ ECHO     檔案下載完成！
 ECHO -------------------------------------------------------------------------------
 ECHO.
 ECHO     說明：(偽) Windows XP Pre-SP4 所有檔案已下載完成。
-ECHO           您可在這個目錄下找到 wxp_sp3，您只要將此目錄複製到您所要更新的電腦，
+ECHO           您可在這個目錄下找到 wxp_sp4，您只要將此目錄複製到您所要更新的電腦，
 ECHO           並執行 hotfix.cmd 即可開始安裝 (偽) Windows XP Pre-SP4。
 ECHO.
 ECHO           原始的 build.cmd 和 wget.exe，您可自行刪除。

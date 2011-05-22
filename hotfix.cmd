@@ -23,7 +23,7 @@ ECHO   以下將自動安裝的軟體
 ECHO   1. Windows XP SP3 之後的所有修正檔%NoBackup_Comment%
 ECHO   2. Windows Internet Explorer 8 之後的所有修正檔%NoBackup_Comment%
 ECHO   3. Windows Media Player 11 之後的所有修正檔%NoBackup_Comment%
-ECHO.   
+ECHO.
 ECHO                                           更新日期：2011/05/18
 ECHO ------------------------------------------------------------------
 ECHO.
