@@ -32,7 +32,7 @@ ECHO ---------------------------------------------------------------------------
 pause
 CLS
 ECHO -------------------------------------------------------------------------------
-ECHO   開始下載檔案.....
+ECHO   開始下載檔案..... (Update to 2011/09)
 ECHO -------------------------------------------------------------------------------
 ECHO.
 ECHO   0. 正在建立安裝目錄，請稍後...
@@ -183,6 +183,7 @@ ECHO      ├正在下載 HotFix Type 1，請稍後...
 %down%/0/C/B/0CB3F337-4E22-4B12-A75B-A81BE325DE7A/WindowsXP-KB2555917-x86-CHT.exe
 %down%/F/C/E/FCE78AC5-DA5A-4583-8D8A-AA956FFABF1E/WindowsXP-KB2567680-x86-CHT.exe
 %down%/6/6/0/6600431E-AEB5-4631-9828-B8801C40A706/WindowsXP-KB2566454-x86-CHT.exe
+%down%/9/7/9/9798A620-E75B-44E1-BBA8-42E3E054B28A/WindowsXP-KB2570947-x86-CHT.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix1\ > nul
 ECHO      ├正在下載 HotFix Type 2，請稍後...
 %down%/1/7/1/17115a2c-8493-4947-bb7d-d7b58457acf7/CAPICOM-KB931906-v2102.exe
