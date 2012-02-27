@@ -27,7 +27,7 @@ ECHO.    ¢|¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢
 ECHO.
 ECHO.
 ECHO.
-ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.3sec.tw/    §ó·s¤é´Á¡G2011/05/18
+ECHO     ¨ä¥L§ó¸Ô²Óªº»¡©ú½Ð¨£ http://www.3sec.tw/    §ó·s¤é´Á¡G2012/02/27
 ECHO -------------------------------------------------------------------------------
 pause
 CLS
@@ -176,10 +176,12 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/8/7/D/87D47F8E-CF01-449B-8651-F5B4C9FF0494/WindowsXP-KB2412687-x86-CHT.exe
 %down%/F/8/B/F8B69995-C3C6-47A6-97EA-DE83DCCA6C21/WindowsXP-KB2508272-x86-CHT.exe
 %down%/C/5/4/C54D48E8-B03E-4BD3-838D-9B5A94390A25/WindowsXP-KB2508429-x86-CHT.exe
-%down%/6/C/8/6C84F30D-1E70-4D1C-A94A-6F73D76F73E5/WindowsXP-KB2511455-x86-CHT.exe
 %down%/5/8/E/58E5DF55-EAB4-404E-B3F5-BE9586C4163D/WindowsXP-KB969084-x86-cht.exe
 %down%/A/0/D/A0D42035-BB7C-4CAE-BB48-118FC7A41404/WindowsXP-KB2524375-x86-CHT.exe
 %down%/5/7/2/57285134-DA93-49B8-8FDC-CDDD3DC112E3/WindowsXP-KB2492386-x86-CHT.exe
+%down%/9/8/D/98D25608-2DD2-46BA-86CC-76ECF6649524/WindowsXP-KB2536276-v2-x86-CHT.exe
+%down%/9/0/9/909DA0EB-B212-47A0-B408-656087CF0356/WindowsXP-KB2476490-x86-CHT.exe
+%down%/F/3/7/F378DE39-5E8C-45FB-8BEC-3B419680FEDD/WindowsXP-KB2535512-x86-CHT.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix1\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 2¡A½Ðµy«á...
 %down%/1/7/1/17115a2c-8493-4947-bb7d-d7b58457acf7/CAPICOM-KB931906-v2102.exe
@@ -219,8 +221,8 @@ ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 1¡A½Ðµy«á...
 %down%/6/5/1/6516E026-DF9B-47B6-8E6E-5B97FBA1A046/IE8-WindowsXP-KB971961-x86-CHT.exe
 %down%/C/0/1/C01577E3-A55A-4363-B318-3766FD04C639/IE8-WindowsXP-KB976662-x86-CHT.exe
 %down%/0/A/5/0A5638C2-6614-44E8-9E9D-EC54F7D42588/IE8-WindowsXP-KB2447568-x86-CHT.exe
-%down%/D/2/5/D25A5073-B8C1-410F-A13D-F53F34C8A81D/IE8-WindowsXP-KB2497640-x86-CHT.exe
 %down%/7/7/F/77FFF321-FF18-4377-9F52-5E9605EEB191/IE8-WindowsXP-KB2510531-x86-CHT.exe
+%down%/5/6/4/564D7283-9D0D-4E3A-87DA-3F5A82D663A7/IE8-WindowsXP-KB2530548-x86-CHT.exe
 move /y *.exe wxp_sp4\ie8\hotfix1\ > nul
 ECHO      ¢u¥¿¦b¤U¸ü HotFix Type 2¡A½Ðµy«á...
 %down%/F/7/8/F7861118-DA5C-4D0D-B3CB-865C4453A066/WindowsXP-KB2467659-x86-CHT.exe
