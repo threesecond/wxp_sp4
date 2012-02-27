@@ -19,7 +19,7 @@ IF /I "%1" == "" (
 )
 ECHO.
 ECHO ------------------------------------------------------------------
-ECHO   以下將自動安裝的軟體 (Update to 2011/09)
+ECHO   以下將自動安裝的軟體 (Update to 2011/10)
 ECHO   1. Windows XP SP3 之後的所有修正檔%NoBackup_Comment%
 ECHO   2. Windows Internet Explorer 8 之後的所有修正檔%NoBackup_Comment%
 ECHO   3. Windows Media Player 11 之後的所有修正檔%NoBackup_Comment%
