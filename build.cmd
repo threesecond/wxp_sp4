@@ -221,7 +221,7 @@ ECHO      ├正在下載 HotFix Type 4，請稍後...
 %down%/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v4.5.exe
 move /y *.exe wxp_sp4\wxpsp3\hotfix4\ > nul
 ECHO      ├正在下載 Windows Update Agent，請稍後...
-wget.com -abuild.log http://download.windowsupdate.com/windowsupdate/redist/standalone/7.4.7600.226/windowsupdateagent30-x86.exe
+wget.com -abuild.log http://download.windowsupdate.com/WindowsUpdate/redist/standalone/7.4.7600.243/WindowsUpdateAgent30-x86.exe
 windowsupdateagent30-x86.exe /Q /X:wxp_sp4\wxpsp3\hotfix5
 wget.com -abuild.log http://update.microsoft.com/microsoftupdate/v6/V5Controls/en/x86/client/muweb_site.cab
 extrac32 /y muweb_site.cab muweb.dll
